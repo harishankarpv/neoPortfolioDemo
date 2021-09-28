@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/neoPortfolioDemo/static/css/main.7a6ae8a0.chunk.css",
-    "main.js": "/neoPortfolioDemo/static/js/main.062dbe2a.chunk.js",
-    "main.js.map": "/neoPortfolioDemo/static/js/main.062dbe2a.chunk.js.map",
+    "main.js": "/neoPortfolioDemo/static/js/main.f70d3f6b.chunk.js",
+    "main.js.map": "/neoPortfolioDemo/static/js/main.f70d3f6b.chunk.js.map",
     "runtime-main.js": "/neoPortfolioDemo/static/js/runtime-main.2ed9be92.js",
     "runtime-main.js.map": "/neoPortfolioDemo/static/js/runtime-main.2ed9be92.js.map",
     "static/js/2.e4fa4635.chunk.js": "/neoPortfolioDemo/static/js/2.e4fa4635.chunk.js",
     "static/js/2.e4fa4635.chunk.js.map": "/neoPortfolioDemo/static/js/2.e4fa4635.chunk.js.map",
     "index.html": "/neoPortfolioDemo/index.html",
-    "precache-manifest.66e92de61f1f522c14a0a3bcfc300634.js": "/neoPortfolioDemo/precache-manifest.66e92de61f1f522c14a0a3bcfc300634.js",
+    "precache-manifest.82e716fce6c9d7200237574099fd4a4d.js": "/neoPortfolioDemo/precache-manifest.82e716fce6c9d7200237574099fd4a4d.js",
     "service-worker.js": "/neoPortfolioDemo/service-worker.js",
     "static/css/main.7a6ae8a0.chunk.css.map": "/neoPortfolioDemo/static/css/main.7a6ae8a0.chunk.css.map",
     "static/js/2.e4fa4635.chunk.js.LICENSE.txt": "/neoPortfolioDemo/static/js/2.e4fa4635.chunk.js.LICENSE.txt",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.2ed9be92.js",
     "static/js/2.e4fa4635.chunk.js",
     "static/css/main.7a6ae8a0.chunk.css",
-    "static/js/main.062dbe2a.chunk.js"
+    "static/js/main.f70d3f6b.chunk.js"
   ]
 }
