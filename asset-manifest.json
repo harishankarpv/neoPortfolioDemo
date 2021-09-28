@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/neoPortfolioDemo/static/css/main.7a6ae8a0.chunk.css",
+    "main.js": "/neoPortfolioDemo/static/js/main.062dbe2a.chunk.js",
+    "main.js.map": "/neoPortfolioDemo/static/js/main.062dbe2a.chunk.js.map",
+    "runtime-main.js": "/neoPortfolioDemo/static/js/runtime-main.2ed9be92.js",
+    "runtime-main.js.map": "/neoPortfolioDemo/static/js/runtime-main.2ed9be92.js.map",
+    "static/js/2.e4fa4635.chunk.js": "/neoPortfolioDemo/static/js/2.e4fa4635.chunk.js",
+    "static/js/2.e4fa4635.chunk.js.map": "/neoPortfolioDemo/static/js/2.e4fa4635.chunk.js.map",
+    "index.html": "/neoPortfolioDemo/index.html",
+    "precache-manifest.66e92de61f1f522c14a0a3bcfc300634.js": "/neoPortfolioDemo/precache-manifest.66e92de61f1f522c14a0a3bcfc300634.js",
+    "service-worker.js": "/neoPortfolioDemo/service-worker.js",
+    "static/css/main.7a6ae8a0.chunk.css.map": "/neoPortfolioDemo/static/css/main.7a6ae8a0.chunk.css.map",
+    "static/js/2.e4fa4635.chunk.js.LICENSE.txt": "/neoPortfolioDemo/static/js/2.e4fa4635.chunk.js.LICENSE.txt",
+    "static/media/100.jpg": "/neoPortfolioDemo/static/media/100.53c38366.jpg",
+    "static/media/100.png": "/neoPortfolioDemo/static/media/100.8f1df092.png",
+    "static/media/index.css": "/neoPortfolioDemo/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/QuantumComp.jpeg": "/neoPortfolioDemo/static/media/QuantumComp.58680347.jpeg",
+    "static/media/buld.jpg": "/neoPortfolioDemo/static/media/buld.a1051a22.jpg",
+    "static/media/codeInLogo.png": "/neoPortfolioDemo/static/media/codeInLogo.b3685be8.png",
+    "static/media/deeplearning_ai_logo.png": "/neoPortfolioDemo/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/all.css": "/neoPortfolioDemo/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/googleAssistant.jpg": "/neoPortfolioDemo/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/harry.jpeg": "/neoPortfolioDemo/static/media/harry.80980b5b.jpeg",
+    "static/media/ino.png": "/neoPortfolioDemo/static/media/ino.ccf88661.png",
+    "static/media/intel_logo.jpg": "/neoPortfolioDemo/static/media/intel_logo.29152cf7.jpg",
+    "static/media/portfolio.png": "/neoPortfolioDemo/static/media/portfolio.d9ff570b.png",
+    "static/media/quicko.jpg": "/neoPortfolioDemo/static/media/quicko.e56f163e.jpg",
+    "static/media/sal.png": "/neoPortfolioDemo/static/media/sal.62ac09c3.png",
+    "static/media/stanford_logo.png": "/neoPortfolioDemo/static/media/stanford_logo.da0e7c80.png",
+    "static/media/vjt.png": "/neoPortfolioDemo/static/media/vjt.c54faf17.png",
+    "static/media/wrighter.jpg": "/neoPortfolioDemo/static/media/wrighter.02fdae43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ed9be92.js",
+    "static/js/2.e4fa4635.chunk.js",
+    "static/css/main.7a6ae8a0.chunk.css",
+    "static/js/main.062dbe2a.chunk.js"
+  ]
+}
